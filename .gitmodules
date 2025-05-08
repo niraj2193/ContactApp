@@ -1,0 +1,3 @@
+[submodule "ContactApp"]
+	path = ContactApp
+	url = https://github.com/niraj2193/ContactApp.git
